@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<cinema cinema_id="8941" cinema_name="Vue Cinemas - Reading">
+  <showings film_id="227902" film_name="The Predator">
+    <standard>
+      <start_time>14:30</start_time>
+      <date>2018-09-14</date>
+    </standard>
+    <VMAX>
+      <start_time>15:45</start_time>
+      <date>2018-09-15</date>
+    </VMAX>
+  </showings>
+  <showings film_id="123456" film_name="Avengers">
+    <standard>
+      <start_time>17:05</start_time>
+      <date>2018-09-15</date>
+    </standard>
+    <VMAX>
+      <start_time>19:25</start_time>
+      <date>2018-09-16</date>
+    </VMAX>
+    <VMAX>
+      <start_time>18:00</start_time>
+      <date>2018-09-17</date>
+    </VMAX>
+    <standard>
+      <start_time>21:05</start_time>
+      <date>2018-09-17</date>
+    </standard>
+    <VMAX>
+      <start_time>10:05</start_time>
+      <date>2018-09-18</date>
+    </VMAX>
+  </showings>
+</cinema>
